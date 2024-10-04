@@ -67,11 +67,11 @@ The bot uses a **mock API** to simulate real-time stock prices:
    npm install
 3. **Configure Environment Variables:**
   - Create a .env file in the project root directory and set the API URL:
-  ```bash
-  API_URL=https://mock-stock-api.com/prices
-  PORT=3000
+     ```bash
+     API_URL=https://mock-stock-api.com/prices
+     PORT=3000
 4. **Start the Application:**
   - Run the application
-  ```bash
-  node app.js
+     ```bash
+     node app.js
 
